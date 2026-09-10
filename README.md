@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fresh graduate in Informatics Engineering from Universitas Negeri Semarang with a strong passion for Data Analytics and Machine Learning. I love turning raw data into meaningful insights and building intelligent solutions that solve real-world problems.<br><br>- 📊 Interests: Data Science, Machine Learning, Web Development<br>- 🛠️ Tech Stack: Python, SQL, Pandas, NumPy, Scikit-learn, Vue.js, Laravel, Unity 3D<br>- 🌱 Currently Learning: Deepening my knowledge in Machine Learning & Data Science<br>- 🎯 Goal: Becoming a Data Analyst or ML Engineer
+I'm a fresh graduate in Informatics Engineering from Universitas Negeri Semarang with a strong passion for Data Analytics and Machine Learning. I love turning raw data into meaningful insights and building intelligent solutions that solve real-world problems.<br><br>- 📊 Interests: Data Science, Machine Learning, Web Development<br>- 🛠️ Tech Stack: Python, SQL, Pandas, NumPy, Scikit-learn, Vue.js, Laravel, Unity<br>- 🌱 Currently Learning: Deepening my knowledge in Machine Learning & Data Science<br>- 🎯 Goal: Becoming a Data Analyst or ML Engineer
 
 
 ## 🌐 Socials:
