@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<a href="https://github.com/AgvenZ">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=F7B32B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Agung+Iman+Wicaksono;Full+Stack+Developer;Informatics+Graduate" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=F7B32B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Agung+Iman+Wicaksono;Full+Stack+Developer;Informatics+Graduate" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=28&fontColor=F7B32B&animation=fadeIn" width="100%"/>
 
@@ -166,117 +166,7 @@ I'm a fresh graduate in Informatics Engineering from **Universitas Negeri Semara
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    EXPERIENCE                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔧 Full Stack Developer**
-`Sekretariat Daerah Kota Semarang`
-`02/2025 – 07/2025`
-
-- Rebuilt front-end of TAPEM platform
-- Improved UX & visual design
-- Integrated front-end & back-end
-
-</td>
-<td width="50%" valign="top">
-
-**🎮 Game Artist**
-`Infinite Learning (MSIB)`
-`09/2024 – 12/2024`
-
-- Developed 3D games with Unity
-- Level design & gameplay optimization
-- Presented outcomes to mentors
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
 <div align="center">
-
-| 🧠 **Alzheimer's Disease** | 🕌 **iMasjidHub** |
-|:---:|:---:|
-| ML Classification with XGBoost & feature selection | Mosque management platform |
-| `Python` `XGBoost` `Scikit-learn` | `Vue` `Node.js` `MongoDB` |
-| [🔗 Demo](#) | [📂 Source](#) |
-
-| 🏪 **UMKM Juron** | 🏛️ **TAPEM Platform** |
-|:---:|:---:|
-| Local products & digital marketing | Public service web |
-| `Laravel` `Tailwind` | `Vue` `Express.js` |
-| [🔗 Demo](#) | [📂 Source](#) |
-
-| 🌾 **Farmer's Journey** | |
-|:---:|:---:|
-| 3D action game with combat & resources | |
-| `Unity` `C#` | |
-| [📂 Source](#) | |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgvenZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F7B32B&icon_color=F7B32B&text_color=C9D1D9&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgvenZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B32B&text_color=C9D1D9&border_radius=10"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AgvenZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7B32B&ring=F7B32B&fire=F7B32B&currStreakLabel=F7B32B&border_radius=10" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AgvenZ&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgvenZ/AgvenZ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgvenZ/AgvenZ/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AgvenZ/AgvenZ/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    CONTACT                              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_KAMU)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/INSTAGRAM_KAMU)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgvenZ)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=F7B32B&animation=twinkling" width="100%"/>
 
