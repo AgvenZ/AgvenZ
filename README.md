@@ -12,7 +12,7 @@
   style="pointer-events: none;"
 />
 
-<br/><br/>
+<br/><br/><br/>
 
 <img
   src="./whoiam.png"
@@ -38,6 +38,8 @@
 <div align="center">
 <h2>About Me</h2>
 </div>
+
+<br/>
 
 <div align="justify" style="text-align: justify;">
 
@@ -77,7 +79,7 @@ I like turning ideas into practical and user-friendly digital products while con
 
 <br/>
 
-<sub><b style="font-size: 1.4em;">Languages</b></sub>
+<sub><b style="font-size: 1.8em;">Languages</b></sub>
 
 <br/>
 
@@ -88,7 +90,7 @@ I like turning ideas into practical and user-friendly digital products while con
 
 <br/>
 
-<sub><b style="font-size: 1.4em;">Frontend</b></sub>
+<sub><b style="font-size: 1.8em;">Frontend</b></sub>
 
 <br/>
 
@@ -99,7 +101,7 @@ I like turning ideas into practical and user-friendly digital products while con
 
 <br/>
 
-<sub><b style="font-size: 1.4em;">Backend</b></sub>
+<sub><b style="font-size: 1.8em;">Backend</b></sub>
 
 <br/>
 
@@ -109,7 +111,7 @@ I like turning ideas into practical and user-friendly digital products while con
 
 <br/>
 
-<sub><b style="font-size: 1.4em;">Database &amp; Tools</b></sub>
+<sub><b style="font-size: 1.8em;">Database &amp; Tools</b></sub>
 
 <br/>
 
