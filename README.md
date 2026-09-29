@@ -1,34 +1,26 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 AGUNG IMAN WICAKSONO · @AgvenZ                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--           AGUNG IMAN WICAKSONO · @AgvenZ                -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Agung%20Iman%20Wicaksono&fontSize=52&fontColor=F7B32B&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=C9D1D9" width="100%"/>
-
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F7B32B&center=true&vCenter=true&width=650&lines=Welcome+to+my+corner+of+GitHub+%E2%9C%A8;Building+clean+%26+functional+web+apps;Always+learning%2C+always+building" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_Indonesia-F7B32B?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/%F0%9F%8E%93_Informatics_Engineering-F7B32B?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Work-F7B32B?style=flat-square&labelColor=0D1117" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=F7B32B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Agung+Iman+Wicaksono;Full+Stack+Developer;Informatics+Graduate" alt="Typing SVG" />
 
 <br/>
 
-<!-- ═══════════════════ BINARY PORTRAIT ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=28&fontColor=F7B32B&animation=fadeIn" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 BINARY ART PORTRAIT                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=400&lines=%3E+whoami" alt="whoami"/>
+### `> whoami`
 
-<br/><br/>
-
-<pre style="font-size: 5px; background-color: #000000; font-weight: bold; padding: 10px 12px; line-height: 1; display: inline-block; overflow-x: auto; border-radius: 12px; box-shadow: 0 0 40px rgba(247,179,43,0.35);">
+<pre style="font-size: 5px; background-color: #000000; font-weight: bold; padding: 6px 8px; line-height: 1; display: inline-block; overflow-x: auto; border-radius: 8px;">
 <b style="color:#000000">10110011100100000001010101100001101101110100010000001011111001110011101101101001101110000011110010000101101101010010100000110</b>
 <b style="color:#000000">01111000101101101101010111000000111101001011000110100101000011001001001100000101110101101010111111110111100111111011011101000</b>
 <b style="color:#000000">10111000011111010000001001101101000000001001011100011001101001100101100000011011011010001101010110100101100100011110000011111</b>
@@ -118,213 +110,66 @@
 
 <br/>
 
-<!-- ─────────── GOLD DIVIDER ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1200&section=header" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+I'm a fresh graduate in Informatics Engineering from **Universitas Negeri Semarang** with a strong passion for **Full Stack Development**. I enjoy building end-to-end web applications — from designing clean, responsive interfaces to developing robust back-end systems and APIs. I love turning ideas into functional, user-friendly digital products.
+
+- 💻 **Focus:** Full Stack Web Development
+- 🛠️ **Tech Stack:** JavaScript, TypeScript, PHP, Python, Vue.js, React, Laravel, Node.js, Express.js, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Docker, Git
+- 🌱 **Currently Learning:** Deepening my skills in modern web architecture & scalable applications
+- 🎯 **Goal:** Becoming a professional Full Stack Developer
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
-
-<h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-&nbsp; About Me
-</h2>
-
-</div>
-
-<img align="right" width="180" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=F7B32B&width=180&height=180&lines=%F0%9F%92%BB;Coding;Coffee;Repeat" alt="side"/>
-
-I recently wrapped up my Informatics Engineering degree at **Universitas Negeri Semarang**, and somewhere along the way I fell in love with building things for the web — the whole journey, from sketching a UI to wiring up the backend so everything just *works*.
-
-<br/>
-
-Most of my days are spent around **JavaScript** and **PHP**, tinkering with **Vue** or **React** on the front, **Laravel** or **Node** on the back, and trying to keep my databases from throwing tantrums. I like clean interfaces, code that reads well, and side projects that teach me something new.
-
-<br/>
-
-Right now, I'm sharpening my skills in **modern web architecture** and looking for a team where I can grow, contribute, and keep learning. If you're building something interesting, I'd love to hear about it.
-
-<br clear="right"/>
-
-<br/>
-
-<!-- ─────────── GOLD DIVIDER ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1200&section=header" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-
-<div align="center">
-
-<h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
-&nbsp; Tech Stack
-</h2>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
 
 **Languages**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-</td>
-<td align="center" width="25%">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<br/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-</td>
-<td align="center" width="25%">
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-</td>
-<td align="center" width="25%">
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Database & Tools**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 <br/>
 
-<!-- ─────────── GOLD DIVIDER ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1200&section=header" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
 <div align="center">
 
-<h2>
-<img src="https://media.giphy.com/media/W5eTv0ZwFvFDi/giphy.gif" width="28">
-&nbsp; GitHub Activity
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=F7B32B&animation=twinkling" width="100%"/>
 
-<br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgvenZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F7B32B&icon_color=F7B32B&text_color=C9D1D9&border_radius=12" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgvenZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B32B&text_color=C9D1D9&border_radius=12" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgvenZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7B32B&ring=F7B32B&fire=F7B32B&currStreakLabel=F7B32B&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AgvenZ&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
-<!-- ─────────── GOLD DIVIDER ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1200&section=header" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════ LET'S CONNECT ═══════════════════ -->
-
-<div align="center">
-
-<h2>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
-&nbsp; Let's Connect
-</h2>
-
-<br/>
-
-<sub>Drop me a line — always happy to talk about web, tech, or anything in between.</sub>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/Email-F7B32B?style=for-the-badge&logo=gmail&logoColor=0D1117" />
-
-<br/><br/>
-
-**agung.iman.wicaksono@gmail.com**
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/LinkedIn-F7B32B?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
-
-<br/><br/>
-
-**linkedin.com/in/agungiman**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ─────────── ANIMATED FOOTER ─────────── -->
-
-<div align="center">
-
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;See+you+around+%E2%9C%A8" alt="Footer"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Let's%20build%20something%20cool&fontSize=24&fontColor=F7B32B&animation=twinkling&fontAlignY=65" width="100%"/>
+*Designed & built by Agung · © 2026*
 
 </div>
