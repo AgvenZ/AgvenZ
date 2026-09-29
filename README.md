@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<br/><br/>
+<br/><br/><br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=%3E+whoami;%3E+building+things+for+the+web;%3E+still+learning%2C+still+building"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=300&lines=%3E+whoami%3F"
 alt="whoami"
 style="pointer-events: none;"
 />
@@ -19,23 +19,15 @@ style="pointer-events: none;"
 <br/><br/>
 
 <img
-src="./whoiam.png"
-alt="Who I Am"
+src="./whoami.png"
+alt=""
 width="60%"
 style="max-width: 500px; border-radius: 12px; pointer-events: none;"
 />
 
 </div>
 
-<br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&width=1200&section=header"
-width="100%"
-style="pointer-events: none;"
-/>
-
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════════════ ABOUT ME ═════════════════════════ -->
 
@@ -67,17 +59,9 @@ I like turning ideas into practical and user-friendly digital products while con
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════ -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&width=1200&section=header"
-width="100%"
-style="pointer-events: none;"
-/>
-
-<br/>
 
 <div align="center">
 
@@ -85,7 +69,7 @@ style="pointer-events: none;"
 
 <br/>
 
-<h2>Languages</h2>
+<h3>Languages</h3>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="pointer-events: none;"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="pointer-events: none;"/>
@@ -94,7 +78,7 @@ style="pointer-events: none;"
 
 <br/><br/>
 
-<h2>Frontend</h2>
+<h3>Frontend</h3>
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" style="pointer-events: none;"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="pointer-events: none;"/>
@@ -103,7 +87,7 @@ style="pointer-events: none;"
 
 <br/><br/>
 
-<h2>Backend</h2>
+<h3>Backend</h3>
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="pointer-events: none;"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="pointer-events: none;"/>
@@ -111,7 +95,7 @@ style="pointer-events: none;"
 
 <br/><br/>
 
-<h2>Database &amp; Tools</h2>
+<h3>Database &amp; Tools</h3>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="pointer-events: none;"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="pointer-events: none;"/>
@@ -122,17 +106,9 @@ style="pointer-events: none;"
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════════════ LET'S CONNECT ═══════════════════ -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&width=1200&section=header"
-width="100%"
-style="pointer-events: none;"
-/>
-
-<br/>
 
 <div align="center">
 
