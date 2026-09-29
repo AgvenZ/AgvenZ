@@ -41,9 +41,9 @@ alt=""
 
 I'm a fresh graduate in **Informatics Engineering from Universitas Negeri Semarang** with a strong interest in **Full Stack Web Development**.
 
-I enjoy building web applications from front end to back end — from creating clean and interactive interfaces to developing APIs, backend systems, and database-driven applications.
+I enjoy building web applications and learning how things work from the front end to the back end. I like creating clean and interactive interfaces, working with APIs and databases, and turning ideas into useful applications.
 
-I like turning ideas into practical and user-friendly digital products while continuously learning and improving my skills.
+I'm always curious to learn new technologies, improve my skills, and build things that are practical and meaningful.
 
 <br>
 
@@ -128,15 +128,17 @@ Feel free to reach out if you'd like to talk about **web development, technology
 
 <a href="mailto:agungwicaksono2k26@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-F7B32B?style=for-the-badge&logo=gmail&logoColor=0D1117"
+    src="https://img.shields.io/badge/Email-F7B32B?style=for-the-badge&logoColor=0D1117&labelColor=F7B32B"
     alt="Email"
+    style="border-radius: 10px;"
   />
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/agungimanwicaksono">
   <img
-    src="https://img.shields.io/badge/LinkedIn-F7B32B?style=for-the-badge&logo=linkedin&logoColor=0D1117"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
     alt="LinkedIn"
+    style="border-radius: 10px;"
   />
 </a>
 
