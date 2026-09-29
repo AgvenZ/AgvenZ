@@ -1,16 +1,24 @@
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--           AGUNG IMAN WICAKSONO · @AgvenZ                -->
+<!--              AGUNG IMAN WICAKSONO · @AgvenZ             -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=F7B32B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Agung+Iman+Wicaksono;Full+Stack+Developer;Informatics+Graduate" alt="Typing SVG" />
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=28&fontColor=F7B32B&animation=fadeIn" width="100%"/>
+<h1>Agung Iman Wicaksono</h1>
+<h3><i>Full Stack Developer</i></h3>
+
+<p>
+  <code>Informatics Engineering</code> &nbsp;·&nbsp;
+  <code>Universitas Negeri Semarang</code>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B27,100:0D1117&height=2&width=600&section=header"/>
 
 </div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                 BINARY ART PORTRAIT                     -->
@@ -18,7 +26,9 @@
 
 <div align="center">
 
-### `> whoami`
+<sub><i>a little something I made with 0s and 1s</i></sub>
+
+<br/><br/>
 
 <pre style="font-size: 5px; background-color: #000000; font-weight: bold; padding: 6px 8px; line-height: 1; display: inline-block; overflow-x: auto; border-radius: 8px;">
 <b style="color:#000000">10110011100100000001010101100001101101110100010000001011111001110011101101101001101110000011110010000101101101010010100000110</b>
@@ -60,7 +70,7 @@
 <b style="color:#000000">100000110010010100110000011010010110101011001</b><b style="color:#FFFFFF">10</b><b style="color:#000000">10001011</b><b style="color:#FFFFFF">00101101100010</b><b style="color:#000000">11100010011010000000100110010111000101101011011010010111</b>
 <b style="color:#000000">11000001010010111000001101100101110000111001</b><b style="color:#FFFFFF">11000</b><b style="color:#000000">1100101110111011001111000101110101111000001101011110110001001111111001111001</b>
 <b style="color:#000000">01001000110110010111000111110110000100010010</b><b style="color:#FFFFFF">1011110</b><b style="color:#000000">0010010101110110101100001</b><b style="color:#FFFFFF">11</b><b style="color:#000000">10</b><b style="color:#FFFFFF">01</b><b style="color:#000000">1111111001101010110101101010110100001101001</b>
-<b style="color:#000000">01111000001100010011100100100100010001101000</b><b style="color:#FFFFFF">1110001011</b><b style="color:#000000">010111110010010101</b><b style="color:#FFFFFF">011110</b><b style="color:#000000">0</b><b style="color:#FFFFFF">111</b><b style="color:#000000">0111010010000101001001110001001101111011001</b>
+<b style="color:#000000">01111000001100010011100100100010001101000</b><b style="color:#FFFFFF">1110001011</b><b style="color:#000000">010111110010010101</b><b style="color:#FFFFFF">011110</b><b style="color:#000000">0</b><b style="color:#FFFFFF">111</b><b style="color:#000000">0111010010000101001001110001001101111011001</b>
 <b style="color:#000000">10111000011011001100011111001111101110110111</b><b style="color:#FFFFFF">00111000100100101001111</b><b style="color:#000000">000</b><b style="color:#FFFFFF">00101100010</b><b style="color:#000000">01100111111011010010111001011110101000111001</b>
 <b style="color:#000000">10101011011101010111100111000100001110110001</b><b style="color:#FFFFFF">11100001010011000000000</b><b style="color:#000000">11</b><b style="color:#FFFFFF">101011010000</b><b style="color:#000000">00110111111110000100001010000100110101111100</b>
 <b style="color:#000000">011111001010000010111101000000010100111011111</b><b style="color:#FFFFFF">00111100111110011000</b><b style="color:#000000">00</b><b style="color:#FFFFFF">10111011110011</b><b style="color:#000000">00010110101111010101101010011101111011000000</b>
@@ -94,7 +104,7 @@
 <b style="color:#000000">001001010111010001101000111000110001001011101101100110</b><b style="color:#FFFFFF">0</b><b style="color:#000000">001101110011100</b><b style="color:#FFFFFF">0</b><b style="color:#000000">010000011010000001001001111111100111100000100101010101</b>
 <b style="color:#000000">00111010100100101111011111110000111101010101111001101001001101101000110100100101001101100111011110010001110011011111011011010</b>
 <b style="color:#000000">01110111101010010001000011100010000011010000011111101011110011111111010010100001110000100100010000100100100101010011011010011</b>
-<b style="color:#000000">11011011001110100111100000101011000110111001100001110000101100110100100110010001001111001100001111111001110110010111011011000</b>
+<b style="color:#000000">11011011001110100111100000101011000111001100001110000101100110100100110010001001111001100001111111001110110010111011011000</b>
 <b style="color:#000000">01110111011100110100001011100001111000100111001001100001100101010000110010111001111000110100010111000101001000000010011011000</b>
 <b style="color:#000000">10000110110000011110110000000000000101010100100110010100001110100011001010101110100101010101001000001000110111101101010110101</b>
 <b style="color:#000000">10101001100111100110010110010111010000100101111111110111010100000011110100011101011011010010111010101000100010000111111010101</b>
@@ -110,18 +120,23 @@
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B27,100:0D1117&height=2&width=600&section=header"/>
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                    ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
-I'm a fresh graduate in Informatics Engineering from **Universitas Negeri Semarang** with a strong passion for **Full Stack Development**. I enjoy building end-to-end web applications — from designing clean, responsive interfaces to developing robust back-end systems and APIs. I love turning ideas into functional, user-friendly digital products.
+I recently wrapped up my Informatics Engineering degree at Universitas Negeri Semarang, and somewhere along the way, I fell in love with building things for the web — the whole journey, from sketching a UI to wiring up the backend so everything just *works*.
 
-- 💻 **Focus:** Full Stack Web Development
-- 🛠️ **Tech Stack:** JavaScript, TypeScript, PHP, Python, Vue.js, React, Laravel, Node.js, Express.js, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Docker, Git
-- 🌱 **Currently Learning:** Deepening my skills in modern web architecture & scalable applications
-- 🎯 **Goal:** Becoming a professional Full Stack Developer
+Most of my days are spent around JavaScript and PHP, tinkering with Vue or React on the front, Laravel or Node on the back, and trying to keep my databases from throwing tantrums. I like clean interfaces, code that reads well, and side projects that teach me something new.
+
+Right now, I'm sharpening my skills in modern web architecture and looking for a team where I can grow, contribute, and keep learning. If you're building something interesting, I'd love to hear about it.
 
 <br/>
 
@@ -129,47 +144,70 @@ I'm a fresh graduate in Informatics Engineering from **Universitas Negeri Semara
 <!--                    TECH STACK                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+`JavaScript` &nbsp; `TypeScript` &nbsp; `PHP` &nbsp; `Python`
+
+<br/>
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+`Vue.js` &nbsp; `React` &nbsp; `Angular` &nbsp; `Tailwind CSS`
+
+<br/>
 
 **Backend**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+`Laravel` &nbsp; `Node.js` &nbsp; `Express.js`
+
+<br/>
 
 **Database & Tools**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+`MySQL` &nbsp; `PostgreSQL` &nbsp; `MongoDB` &nbsp; `Docker` &nbsp; `Git` &nbsp; `GitHub`
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B27,100:0D1117&height=2&width=600&section=header"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=F7B32B&animation=twinkling" width="100%"/>
+<br/>
 
-*Designed & built by Agung · © 2026*
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    LET'S CONNECT                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## Let's Connect
+
+<div align="center">
+
+<br/>
+
+<sub>Email</sub>
+<br/>
+**agung.iman.wicaksono@gmail.com**
+
+<br/><br/>
+
+<sub>LinkedIn</sub>
+<br/>
+**linkedin.com/in/agungiman**
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B27,100:0D1117&height=1&width=400&section=header"/>
+
+<br/>
+
+<sub><i>Thanks for stopping by — have a good one.</i></sub>
+
+<br/><br/>
 
 </div>
