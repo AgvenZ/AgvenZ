@@ -17,8 +17,8 @@
 <img
   src="./whoiam.png"
   alt="Who I Am"
-  width="100%"
-  style="max-width: 800px; border-radius: 12px; pointer-events: none;"
+  width="60%"
+  style="max-width: 500px; border-radius: 12px; pointer-events: none;"
 />
 
 </div>
@@ -39,7 +39,7 @@
 <h2>About Me</h2>
 </div>
 
-<div align="center">
+<div align="justify" style="text-align: justify;">
 
 I'm a fresh graduate in **Informatics Engineering from Universitas Negeri Semarang** with a strong interest in **Full Stack Development**. I enjoy building web applications from the front end to the back end, whether it's creating clean and responsive interfaces or developing APIs and backend systems.
 
@@ -77,7 +77,7 @@ I like turning ideas into practical and user-friendly digital products while con
 
 <br/>
 
-<sub><b style="font-size: 1.1em;">Languages</b></sub>
+<sub><b style="font-size: 1.4em;">Languages</b></sub>
 
 <br/>
 
@@ -88,7 +88,7 @@ I like turning ideas into practical and user-friendly digital products while con
 
 <br/>
 
-<sub><b style="font-size: 1.1em;">Frontend</b></sub>
+<sub><b style="font-size: 1.4em;">Frontend</b></sub>
 
 <br/>
 
@@ -99,7 +99,7 @@ I like turning ideas into practical and user-friendly digital products while con
 
 <br/>
 
-<sub><b style="font-size: 1.1em;">Backend</b></sub>
+<sub><b style="font-size: 1.4em;">Backend</b></sub>
 
 <br/>
 
@@ -109,7 +109,7 @@ I like turning ideas into practical and user-friendly digital products while con
 
 <br/>
 
-<sub><b style="font-size: 1.1em;">Database &amp; Tools</b></sub>
+<sub><b style="font-size: 1.4em;">Database &amp; Tools</b></sub>
 
 <br/>
 
